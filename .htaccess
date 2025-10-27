@@ -1,0 +1,4 @@
+# Minimal .htaccess for troubleshooting
+# Original backed up to .htaccess.backup
+
+AddDefaultCharset UTF-8
